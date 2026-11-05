@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Sidebar from "./components/sidebar.jsx";
+import Sidebar from "./components/Sidebar.jsx";
 import Header from "./components/Header.jsx";
 
 import Dashboard from "./pages/Dashboard.jsx";
@@ -53,9 +53,7 @@ export default function App() {
         {/* Footer */}
         <footer className="app-footer">
           <span>CYBERGUARD</span>
-
           <span>Digital Safety & Threat Awareness Platform</span>
-
           <span>Frontend Prototype · 2026</span>
         </footer>
       </main>

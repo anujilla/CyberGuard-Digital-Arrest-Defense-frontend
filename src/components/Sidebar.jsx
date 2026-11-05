@@ -44,7 +44,6 @@ export default function Sidebar({
           <div className="brand-icon">
             <ShieldCheck size={27} />
           </div>
-
           <h2>CYBERGUARD</h2>
           <p>THREAT DEFENSE SYSTEM</p>
         </div>
@@ -81,11 +80,8 @@ export default function Sidebar({
 
         <div className="sidebar-bottom">
           <ShieldAlert size={22} />
-
           <h4>Stay Alert. Stay Safe.</h4>
-
           <p>Think before you click. Never share your OTP or PIN.</p>
-
           <span>CYBERGUARD v1.0.0</span>
         </div>
 
